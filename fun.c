@@ -9,6 +9,8 @@ int main()
   int user_choice = 0;
   char rerun = ' ';
   
+  printf("\n I know what you did last Halloween... \n");
+  
   do 
   {
     
